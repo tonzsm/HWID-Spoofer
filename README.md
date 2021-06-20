@@ -2,6 +2,8 @@
 
 How to use
 
+Run as Admin = OOF.exe
+
 # Cleaners
 
 Cleaner Loop > Clean Traces > Cleaner 0.1 > Cleaner 0.2
