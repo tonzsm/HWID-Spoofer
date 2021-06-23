@@ -2,6 +2,8 @@
 
 How to use
 
+PASSWORD : infected 
+
 Run as Admin = OOF.exe
 
 # Cleaners
