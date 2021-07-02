@@ -1,10 +1,16 @@
 # HWID-Spoofer
 
-How to use
 
-PASSWORD : infected 
 
-Run as Admin = OOF.exe
+***
+
+**How to use**
+
+**RUN IS ADMIN** : OOF.EXE
+
+**PASSWORD** : infected 
+
+***
 
 # Cleaners
 
